@@ -1,2 +1,3 @@
+**/.terraform
 **/settings.tf
 **/terraform.tfvars
